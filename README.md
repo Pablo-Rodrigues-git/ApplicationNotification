@@ -12,4 +12,4 @@
 
 ### 5 - Utilizado conceitos de MVVM
 
-[![img](https://github.com/Pablo-Rodrigues-git/ViewModel-Contador/raw/master/images/Viewmodel.gif)](https://github.com/Pablo-Rodrigues-git/ViewModel-Contador/blob/master/images/Viewmodel.gif)
+<img src="images/appnotification.gif" width="400">
