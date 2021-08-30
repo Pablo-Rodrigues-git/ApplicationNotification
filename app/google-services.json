@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175040741525",
+    "project_id": "notificationapp-809b3",
+    "storage_bucket": "notificationapp-809b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175040741525:android:af0018fb9df93abe53db9c",
+        "android_client_info": {
+          "package_name": "com.courses.applicationnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175040741525-kom2i0h49bpq89ar2m091u63998oum3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiCJo3J_DuFfKg8keVQk_iHxiDXbTOmSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175040741525-kom2i0h49bpq89ar2m091u63998oum3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
