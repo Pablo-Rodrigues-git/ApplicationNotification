@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ApplicationNotification</string>
+    <string name="app_name">Push and APP Notifications</string>
     <string name="text_send_notification">Send Notification</string>
     <string name="msg_token_fmt" />
 </resources>
