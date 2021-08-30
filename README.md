@@ -12,4 +12,4 @@
 
 ### 5 - Utilizado conceitos de MVVM
 
-<img src="images/[appnotification.gif](https://github.com/Pablo-Rodrigues-git/Push_Notification/blob/master/images/appnotification.gif)" width="400">
+<img src="images/appnotification.gif" width="400">
